@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_300">#A82F58</color>
+    <color name="pink_50">#E84F83</color>
+    <color name="teal_a200">#2ECD34</color>
+    <color name="cyan_50">#F80256</color>
+    <color name="deep_purple_300">#5B04F6</color>
+    <color name="deep_purple_50">#9C27B0</color>
+    <color name="light_blue_a400">#088BF3</color>
+    <color name="light_blue_100">#4DA4EA</color>
+
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
